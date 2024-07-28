@@ -5,12 +5,17 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="./img/image.svg" alt="Event" />
-        <p>
+        <p class="welcome">
           Welcome to the Event Management System.
         </p>
-          <button>Signup</button>
-          <button>Login</button>
+        <button class="sign-up">Signup</button>
+        <button class="log-in">Login</button>
       </header>
+      <body>
+        <p class="description">
+          This is a platform where you can manage your events.
+        </p>
+      </body>
     </div>
   );
 }
