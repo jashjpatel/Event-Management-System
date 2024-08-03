@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="./img/image.svg" alt="Event" />
+        <img src="./img/istockphoto-1393059175-1024x1024.jpg" alt="Event" />
         <p class="welcome">
           Welcome to the Event Management System.
         </p>
